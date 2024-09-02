@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main # default branch
+  schedule:
+      - cron: '0 * * * *' # 每小时运行一次
 
 jobs:
   pages:

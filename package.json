@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "vitepress": "latest",
-    "@theojs/lumen":"latest",
+    "@theojs/lumen":"latest"
   },
   "scripts": {
     "dev": "vitepress dev docs",

@@ -2,7 +2,6 @@
   "devDependencies": {
     "vitepress": "latest",
     "@theojs/lumen":"latest",
-    "@theojs/solis": "latest"
   },
   "scripts": {
     "dev": "vitepress dev docs",
